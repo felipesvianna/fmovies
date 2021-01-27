@@ -24,13 +24,13 @@ flutter pub get
 
 Esta aplicação é para fins didáticos e referência. Portanto, deve ser executada em emuladores Android em ambiente de desenvolvimento ou dispositivos conectados.
 
-Listar os emuladores presentes no sistema
+1. Listar os emuladores presentes no sistema
 
 ```bash
 flutter emulators
 ```
 
-Executar o aplicativo no emulador selecionado
+2. Executar o aplicativo no emulador selecionado
 
 ```bash
 flutter emulators --launch <emulator id>
