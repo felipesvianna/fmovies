@@ -22,7 +22,7 @@ flutter pub get
 
 ## Utilização
 
-Esta aplicação é para fins didáticos e referência. Portanto, deve ser executada em emuladores Android em ambiente de desenvolvimento.
+Esta aplicação é para fins didáticos e referência. Portanto, deve ser executada em emuladores Android em ambiente de desenvolvimento ou dispositivos conectados.
 
 Listar os emuladores presentes no sistema
 
