@@ -8,7 +8,7 @@ import 'package:fmovies/src/models/filme_model.dart';
 import 'package:http/http.dart' as http;
 
 class FilmesAPI {
-  String _apiKey = 'df2dc9e3e5a5cb157ef947bb44cce1b6';
+  String _apiKey = ''; // Inserir aqui a API Key TMDB
   String _url = 'api.themoviedb.org';
   String _language = 'en-US';
   int _page = 0;
